@@ -14,4 +14,4 @@ Antes, a pessoa QA, conhecida como Analista de Testes, ou Testadora, era vista c
 
 Hoje em dia, o papel dessa pessoa é garantir junto com todos a melhor entrega, trabalhando de forma colaborativa e preventiva, atuando junto com o time desde o **planejamento** do projeto.
 
-**SIM!** A pessoa QA, deixa de ser uma etapa no final do processo de desenvolvimente, para ser uma pessoa que contribui com a qualidade desde que o projeto começa a ser desenhado. A pessoa QA também auxilia o time a manter boas práticas de trabalho e desenvolvimento, que vão auxiliar o time a fazer a melhor entrega de uma forma que seja saudável e sustentável para a equipe.
+**SIM!** A pessoa QA, deixa de ser uma etapa no final do processo de desenvolvimento, para ser uma pessoa que contribui com a qualidade desde que o projeto começa a ser desenhado. A pessoa QA também auxilia o time a manter boas práticas de trabalho e desenvolvimento, que vão auxiliar o time a fazer a melhor entrega de uma forma que seja saudável e sustentável para a equipe.
